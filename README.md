@@ -10,5 +10,3 @@ In order to accomplish these goals, I've broken the project into three general s
  1. Retrieving data (tweetScrape)
  2. Aggregating & cleaning data (dataCleaning)
  3. Analysis (dataAnalysis)
-
-If you'd like to go straight to the results, please see the PowerPoint file detailing my findings!
